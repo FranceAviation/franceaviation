@@ -1,0 +1,15 @@
+<div class="block">
+	<h1>France aviation</h1>
+	<h2>Sous-Titre</h2>
+
+	<ul class="menu">
+		<li><a href="#"></a>Accueil</li>
+		<li><a href="#"></a>Page 1</li>
+		<li><a href="#"></a>Page 2</li>
+		<li><a href="#"></a>Page 3</li>
+		<li><a href="#"></a>Page 4</li>
+	</ul>
+
+</div>
+
+<p>Site officiel<span>Salut</span></p>
